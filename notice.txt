@@ -1,0 +1,34 @@
+
+Scene attribution:
+
+
+Armor Guy:
+Josh Qualtieri (c) Digital Fish
+
+Turtle Barbarian:
+Jesse Sandifer (c) Autodesk
+
+Big Guy and Monster Frog:
+Bay Raitt (c) Valve
+https://spiraloid.artstation.com/projects/QzE8Bx
+
+
+Bike and sportscar:
+Yasutoshi Mori, CC license
+https://github.com/MirageYM/3DModels
+
+
+Rain, aka Amy:
+Blender Studio, CC license
+https://studio.blender.org/characters/rain/v2/
+
+
+Environment Maps
+
+autumn_hockey_4k.hdr and kiara_4_mid-morning_8k.hdr envmaps:
+Greg Zaal, CC license
+https://polyhaven.com/a/autumn_hockey
+
+diner.exr envmap:
+Blender Studio, CC license
+

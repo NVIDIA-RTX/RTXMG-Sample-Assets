@@ -1,0 +1,35 @@
+{
+    "models": [
+        "rain/rain_restaurant[100-280].obj"
+    ],
+    "graph": [
+        {
+            "name": "Amy_0",
+            "model": 0,
+            "translation": [0.0, 0.0, 0.0],
+            "euler": [0.0, 0.0, 0.0],
+            "scaling": [1.0, 1.0, 1.0]
+        }
+    ],
+    "view":
+    {
+        "position": [0.275635, 1.00168, 1.30367],
+        "lookat": [0.224506, 1.30163, 0.133809],
+        "up": [0, 1, 0],
+        "fov": 35        
+    },
+    "settings": 
+    {
+        "audio": "rain/rain_restaurant100.wav",
+        "audio start time": 3.083666,
+        "envmap": "textures/envmaps/diner.exr",
+        "frame rate": 24.0,
+        "shading mode": "Path Tracing",
+        "spp": 1,
+        "max bounces": 2,
+        "firefly max intensity": 1.0,
+        "exposure": 1.0,
+        "color mode": "Base Color",
+        "wireframe": false
+    }
+}

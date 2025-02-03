@@ -1,0 +1,35 @@
+{
+    "models": [
+        "barbarian/barbarian.[0-280].obj"
+    ],
+    "graph": [
+        {
+            "name": "Barbarian",
+            "model": 0,
+            "translation": [0.0, 0.0, 0.0],
+            "euler": [0.0, 0.0, 0.0],
+            "scaling": [1.0, 1.0, 1.0]
+        }
+    ],
+    "view":
+    {
+        "position": [-61,39,518],
+        "lookat": [-16.9,77.4,4.6],
+        "up": [0, 1, 0],
+        "fov": 35        
+    },
+    "settings": 
+    {
+        "audio": "barbarian/barbarian.0.wav",
+        "envmap": "textures/envmaps/autumn_hockey_4k.hdr",
+        "envmap rotation": 0,
+        "frame rate": 30.0,
+        "shading mode": "Path Tracing",
+        "spp": 1,
+        "max bounces": 3,        
+        "firefly max intensity": 1.0,
+        "exposure": 1.0,
+        "color mode": "Base Color",
+        "wireframe": false
+    }
+}

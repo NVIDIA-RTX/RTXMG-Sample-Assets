@@ -1,0 +1,152 @@
+
+newmtl accessoriesSG
+illum 4
+Kd 0.50 0.50 0.50
+Ks 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+map_Kd textures/accessories_albedo.dds
+map_Bump -bm 1.741 textures/accessories_displace_8k.dds
+Pr 0.25
+Pm 0.00
+
+newmtl armsSG
+illum 4
+Kd 0.50 0.50 0.50
+Ks 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+map_Kd textures/arms_albedo.dds
+map_Bump -bm 1.741 textures/arms_displace_8k.dds
+Pr 0.47
+Pm 0.00
+
+newmtl armorSG
+illum 4
+Kd 0.50 0.50 0.50
+Ks 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+map_Kd textures/armor_albedo.dds
+#map_Ks textures/armor_spec.dds
+map_Bump -bm 1.741 textures/armor_displace_8k.dds
+Pr 0.47
+Pm 0.00
+
+newmtl baseSG
+illum 4
+Kd 0.18 0.09 0.07
+Ks 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Pr 0.05
+Pm 0.75
+
+newmtl base2SG
+illum 4
+Kd 0.359 0.28 0.133
+Ks 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+map_Bump -bm 1.741 textures/base_displace.dds
+Pr 1.00
+Pm 0.00
+
+newmtl bladeSG
+illum 4
+Kd 0.50 0.50 0.50
+Ks 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+map_Kd textures/weapon_albedo.dds
+map_Bump -bm 1.741 textures/blade_displace_8k.dds
+Pr 1.00
+Pm 0.00
+
+newmtl cloth_piecesSG
+illum 4
+Kd 0.50 0.50 0.50
+Ks 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+map_Kd textures/clothpieces_albedo.dds
+map_Bump -bm 1.741 textures/clothpieces_displace.dds
+Pr 1.00
+Pm 0.00
+
+newmtl eyesSG
+illum 4
+Kd 0.50 0.50 0.50
+Ks 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+map_Kd textures/eyes_albedo.dds
+Pr 0.00
+Pm 0.00
+
+newmtl headSG
+illum 4
+Kd 0.50 0.50 0.50
+Ks 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+map_Kd textures/head_albedo.dds
+#map_Ks textures/head_spec.dds
+map_Bump -bm 1.741 textures/head_displace_8k.dds
+Pr 0.47
+Pm 0.00
+
+newmtl initialShadingGroup
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+
+newmtl legsSG
+illum 4
+Kd 0.50 0.50 0.50
+Ks 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+map_Kd textures/legs_albedo.dds
+#map_Ks textures/legs_spec.dds
+map_Bump -bm 1.741 textures/legs_displace_8k.dds
+Pr 0.47
+Pm 0.00
+
+newmtl nailsSG
+illum 4
+Kd 0.50 0.50 0.50
+Ks 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+map_Kd textures/arms_albedo.dds
+#map_Bump -bm 1.741 textures/arms_displace_8k.dds
+Pr 0.10
+Pm 0.00
+
+newmtl rocksSG
+illum 4
+Kd 0.359 0.28 0.133
+Ks 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+map_Bump -bm 1.741 textures/rocks_displace.dds
+Pr 1.00
+Pm 0.00
+
+newmtl staffSG
+illum 4
+Kd 0.50 0.50 0.50
+Ks 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+map_Kd textures/weapon_albedo.dds
+map_Bump -bm 1.741 textures/staff_displace_8k.dds
+Pr 1.00
+Pm 0.00
+
+newmtl teethSG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+map_Kd textures/teeth_albedo.dds
+map_Bump -bm 0.498 textures/teeth_displace.dds
+Pr 0.15
+Pm 0.00
+
+newmtl toenailsSG
+illum 4
+Kd 0.50 0.50 0.50
+Ks 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+map_Kd textures/legs_albedo.dds
+#map_Bump -bm 1.741 textures/legs_displace_8k.dds
+Pr 0.10
+Pm 0.00
