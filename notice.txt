@@ -1,6 +1,41 @@
+Third Party IP
+==============
 
-Scene attribution:
+This product is based on or incorporates materials from the sources listed below
+(third party IP). Such licenses and notices are provided for informational
+purposes only.
 
+
+    * Kitchen Set Asset
+
+        Copyright 2017-2025 Pixar.  All rights reserved. 
+
+        Redistribution and use of this kitchen scene description asset (the
+        “Kitchen Set Asset”), with or without modification, are permitted
+        provided that the following conditions are met: 
+        1. The Kitchen Set Asset or any part of it may only be used for 
+           (a) research or software development (including benchmarking) purposes and
+           (b) in educational materials about Pixar’s Universal Scene Description technology. 
+        2. Redistributions of the Kitchen Set Asset or any part of it must include the above
+           copyright notice, this list of conditions and the following disclaimer. 
+        3. The name “Pixar” or the names of its contributors may NOT be used to promote or to
+           imply endorsement, sponsorship, or affiliation with any products, materials or
+           benchmarking results, without the prior written permission of Pixar. 
+        4. The Kitchen Set Asset and its output may only be referred to as the “Kitchen Set.” 
+        
+        DISCLAIMER:  THIS KITCHEN SET ASSET IS PROVIDED BY PIXAR “AS IS” AND ANY
+        EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
+        WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+        DISCLAIMED. IN NO EVENT SHALL PIXAR BE LIABLE FOR ANY DIRECT, INDIRECT,
+        INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT
+        NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
+        DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
+        THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+        (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+        OF THE KITCHEN SET ASSET, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+
+Additional Scene attributions:
 
 Armor Guy:
 Josh Qualtieri (c) Digital Fish
@@ -12,11 +47,9 @@ Big Guy and Monster Frog:
 Bay Raitt (c) Valve
 https://spiraloid.artstation.com/projects/QzE8Bx
 
-
 Bike and sportscar:
 Yasutoshi Mori, CC license
 https://github.com/MirageYM/3DModels
-
 
 Rain, aka Amy:
 Blender Studio, CC license

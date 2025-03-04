@@ -1,0 +1,42 @@
+{
+    "models": [
+        "rain/rain_restaurant[100-280].obj",
+        "kitchenset/kitchenset.obj"
+    ],
+    "graph": [
+        {
+            "name": "Amy",
+            "model": 0,
+            "translation": [75, 0, 75],
+            "euler": [0.0, 25.0, 0.0],
+            "scaling": [110, 110, 110]
+        },
+        {
+            "name": "Kitchenset",
+            "model": 1,
+            "translation": [0.0, 0.0, 0.0],
+            "euler": [0.0, 0.0, 0.0],
+            "scaling": [1.0, 1.0, 1.0]
+        }
+    ],
+    "view":
+    {
+        "position": [134.32,134.401,250.063],
+        "lookat": [119.299,128.187,188.976],
+        "up": [0,1,0],
+        "fov": 45
+    },
+    "settings": 
+    {
+        "audio": "rain/rain_restaurant100.wav",
+        "audio start time": 3.083666,
+        "frame rate": 24.0,
+        "frame range": [100, 280],
+        "spp": 1,
+        "max bounces": 3,
+        "firefly max intensity": 1.0,
+        "exposure": 2.2,
+        "shading mode": "Path Tracing",
+        "wireframe": false
+    }
+}
