@@ -30,12 +30,14 @@
     {
         "audio": "rain/rain_restaurant100.wav",
         "audio start time": 3.083666,
+        "envmap": "textures/envmaps/aft_lounge_8k.hdr",
+        "envmap rotation": 72.0,
         "frame rate": 24.0,
         "frame range": [100, 280],
         "spp": 1,
         "max bounces": 3,
         "firefly max intensity": 1.0,
-        "exposure": 2.2,
+        "exposure": 1.0,
         "shading mode": "Path Tracing",
         "wireframe": false
     }
