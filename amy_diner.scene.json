@@ -22,7 +22,7 @@
     {
         "audio": "rain/rain_restaurant100.wav",
         "audio start time": 3.083666,
-        "envmap": "textures/envmaps/diner.exr",
+        "envmap": "textures/envmaps/diner_4k.hdr",
         "frame rate": 24.0,
         "shading mode": "Path Tracing",
         "spp": 1,

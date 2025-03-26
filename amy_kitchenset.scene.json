@@ -30,7 +30,7 @@
     {
         "audio": "rain/rain_restaurant100.wav",
         "audio start time": 3.083666,
-        "envmap": "textures/envmaps/aft_lounge_8k.hdr",
+        "envmap": "textures/envmaps/aft_lounge_4k.hdr",
         "envmap rotation": 72.0,
         "frame rate": 24.0,
         "frame range": [100, 280],
